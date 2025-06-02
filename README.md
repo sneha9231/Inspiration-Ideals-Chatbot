@@ -28,13 +28,11 @@ We're developing a chatbot that responds to your questions with uplifting, insig
 ### What We've Achieved
 
 - **Book Digitization:**  
-  Every one of the book’s 365 entries is now digitized, thanks to Azure Studio.
+  Every one of the book’s 365 entries is now digitized, thanks to Microsoft Copilot Studio.
 - **Platform Evaluation:**  
   We compared Power Apps and Azure Studio to find the best fit for our needs.
 - **Data Structuring:**  
   Carefully curated and formatted the entries, even adding fresh content from Substack.
-- **Database Integration:**  
-  Brought everything together in Power Automate to fuel our chatbot’s responses.
 
 ---
 
@@ -45,7 +43,7 @@ We're developing a chatbot that responds to your questions with uplifting, insig
 - **Language Adaptation:**  
   Updated the original 1917 text to be inclusive and relevant for today’s global audience.
 - **Technical Integration:**  
-  Connected our content with Power Virtual Agents for seamless, real-time conversations.
+  Connected our content with Microsoft Copilot Studio for seamless, real-time conversations.
 
 ---
 
@@ -61,16 +59,18 @@ We're developing a chatbot that responds to your questions with uplifting, insig
 ## See It in Action
 Check out our demo video:
 
-[![Watch Demo](![alt text](image.png))](https://youtu.be/ZKfy_mILsFo?si=OT0nkJ-MG42P4juq)
+[![Watch the demo](image.png)](https://youtu.be/ZKfy_mILsFo?si=OT0nkJ-MG42P4juq)
 
 
 ---
 
 ## Join Us!
 
-We believe the wisdom of _Inspiration and Ideals_ can brighten lives everywhere—and we’d love for you to be part of this journey.
-
 Got ideas or feedback? Interested in collaborating?  
 Star this repo, open an issue, or reach out to any of us!
 
+Sneha Pandey: sneha.pandey@studentambassadors.com
+Yash Padhara: Yash.Padhara@studentambassadors.com
+Philippa Burgess: philippa.burgess@studentambassadors.com
+Krishna vamsi Regulavalasa: Krishnavamsi.Regulavalasa@studentambassadors.com
 ---
