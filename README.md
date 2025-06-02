@@ -69,8 +69,8 @@ Check out our demo video:
 Got ideas or feedback? Interested in collaborating?  
 Star this repo, open an issue, or reach out to any of us!
 
-Sneha Pandey: sneha.pandey@studentambassadors.com
-Yash Padhara: Yash.Padhara@studentambassadors.com
-Philippa Burgess: philippa.burgess@studentambassadors.com
-Krishna vamsi Regulavalasa: Krishnavamsi.Regulavalasa@studentambassadors.com
+- Sneha Pandey: sneha.pandey@studentambassadors.com
+- Yash Padhara: Yash.Padhara@studentambassadors.com
+- Philippa Burgess: philippa.burgess@studentambassadors.com
+- Krishna vamsi Regulavalasa: Krishnavamsi.Regulavalasa@studentambassadors.com
 ---
