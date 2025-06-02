@@ -1,67 +1,76 @@
-# 🌟 Ideals Crew: AI Chatbot Project
+# Ideals Crew: AI Chatbot Project
 
-Welcome to the Ideals Crew project repository!  
-We are building an AI-powered chatbot inspired by the book **"Inspiration and Ideals: Thoughts for Every Day"** to deliver daily motivation, wisdom, and guidance to users in an accessible, interactive format.
+Welcome to the **Ideals Crew** repository!
 
----
-
-## 👥 Team Members
-
-- Sneha Pandey (Team Leader)
-- Philippa Burgess
-- Yash Padhara
-- Krishna Vamsi Regulavalasa
-
-## 🏆 Project Category
-
-AI & Application Development
+We're on a mission to create an AI-powered chatbot inspired by the timeless wisdom of **"Inspiration and Ideals: Thoughts for Every Day."** Our goal is to deliver daily motivation, thoughtful guidance, and a spark of positivity to anyone seeking it—right at their fingertips.
 
 ---
 
-## 🌍 Project Overview
+## Meet the Team
 
-Our goal is to create a chatbot that can answer user questions with thoughtful, motivational responses drawn directly from the book "Inspiration and Ideals." The chatbot is designed to be a daily source of inspiration, offering guidance and encouragement tailored to each user's queries.
+- **Sneha Pandey** (Team Lead)  
+- Philippa Burgess  
+- Yash Padhara  
+- Krishna Vamsi Regulavalasa  
 
 ---
 
-## 🚀 Progress Update (May 2025)
+## What We're Building
 
-### ✅ Achievements
+**Category:** AI & Application Development
+
+We're developing a chatbot that responds to your questions with uplifting, insightful messages drawn straight from _Inspiration and Ideals_. Whether you need a boost or a gentle nudge, our chatbot is designed to offer encouragement and wisdom tailored to your needs, every single day.
+
+---
+
+## May 2025: Where We Are Now
+
+### What We've Achieved
 
 - **Book Digitization:**  
-  Processed 100% of the book’s content, covering all 365 daily entries, using Azure Studio.
+  Every one of the book’s 365 entries is now digitized, thanks to Azure Studio.
 - **Platform Evaluation:**  
-  Compared Power Apps and Azure Studio to identify the best platform for our needs.
+  We compared Power Apps and Azure Studio to find the best fit for our needs.
 - **Data Structuring:**  
-  Gathered and formatted the latest versions of entries (including those curated on Substack) for chatbot integration.
+  Carefully curated and formatted the entries, even adding fresh content from Substack.
 - **Database Integration:**  
-  Currently integrating the book’s content into Power Automate to serve as the chatbot’s backend knowledge base.
+  Brought everything together in Power Automate to fuel our chatbot’s responses.
 
-### 💡 Challenges & Solutions
+---
 
-- **Data Collection & Format:**  
-  The book’s entries needed to be curated and formatted for consistency. We explored storing the data in Word, Excel, and other formats to optimize for chatbot use.
+## What We've Learned
+
+- **Data Formatting:**  
+  We experimented with Excel, Word, and other formats to make training the chatbot as smooth as possible.
 - **Language Adaptation:**  
-  Since the original text (from 1917) reflects a Christian perspective, we refined and adapted the language to ensure inclusivity and cultural relevance for a diverse audience, while preserving the book’s core themes of ambition, perseverance, and faith.
+  Updated the original 1917 text to be inclusive and relevant for today’s global audience.
 - **Technical Integration:**  
-  We are currently working on routing the processed book content through Power Virtual Agents to enable seamless, conversational interactions.
+  Connected our content with Power Virtual Agents for seamless, real-time conversations.
 
 ---
 
-## 🛠️ Next Steps
+## What’s Next
 
-- Complete integration with Power Virtual Agents for live chatbot conversations.
-- Test and refine the chatbot’s responses for tone, inclusivity, and accuracy.
-- Gather user feedback and iterate on features.
-- Explore enhancements like daily inspiration notifications and multilingual support.
-
----
-
-## 🙌 Get Involved
-
-We’re excited to share the wisdom of "Inspiration and Ideals" with the world!  
-If you have suggestions, want to contribute, or just want to follow our journey, feel free to star this repo, open an issue, or contact any team member.
+- Finalize integration with **Power Virtual Agents**
+- Test and fine-tune the chatbot’s tone, inclusivity, and accuracy
+- Collect feedback and keep improving content and features
+- Explore new ideas like **daily notifications** and **multilingual support**
 
 ---
 
-*Stay tuned for more updates as we bring this project to life!*
+## See It in Action
+Check out our demo video:
+
+[![Watch Demo](![alt text](image.png))](https://youtu.be/ZKfy_mILsFo?si=OT0nkJ-MG42P4juq)
+
+
+---
+
+## Join Us!
+
+We believe the wisdom of _Inspiration and Ideals_ can brighten lives everywhere—and we’d love for you to be part of this journey.
+
+Got ideas or feedback? Interested in collaborating?  
+Star this repo, open an issue, or reach out to any of us!
+
+---
